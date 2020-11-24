@@ -1,8 +1,26 @@
 body {
-  background-color: lightblue;
+  background-color:#ffd699;
 }
 
 h1 {
-  color: navy;
+  color: #995c00;
   margin-left: 20px;
+  text-shadow: 2px 2px;
+}
+
+
+#wishes {
+  padding: 50px;
+  border: 3px solid #000;
+  background: #FFF;
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow);
+  }
+
+  #Shanev {
+ Padding: 50px;
+border: 1px solid pink;
+height: 100px;
+background-color: #ffb3b3
 }
